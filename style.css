@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  background-image: url("images/pattern.jpg");
+}
+
+.article-title {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
+
+p, h3{
+    font-family: Helvetica;
+}
